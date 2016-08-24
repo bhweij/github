@@ -1,6 +1,3 @@
-# Resume
-Full resume detailing background, education and experience in the IT field.
-
 # Short Bio:
 Bashar Hweij is a passionate freelance software and hardware developer.
 He has more than 10 years of diversified experience working as: IT Technician, Sales Engineer, Products Manager, Software Programmer, Network & System Administrator and IT Engineer. 
