@@ -29,6 +29,6 @@ Bashar has started writing his first book on software development to help new st
 
 Bashar’s long sought career objective is to employ and enhance his experience and academic skills through obtaining a growing position in high-quality environment.
 
-Bashar Hweij is a devoted husband and a proud father of two smart kids. He wishes to further inspire his girl and boy to dream big, pursue future in technology and be part of the team that makes a difference.
+Bashar Hweij is a devoted husband and a proud father of two smart kids. He wishes to further inspire his girl and boy to dream big, pursue a future in technology and be part of the team that makes a difference.
 
 He is currently residing in fabulous Las Vegas, NV and is able to relocate, for business, to any city in the United States.
